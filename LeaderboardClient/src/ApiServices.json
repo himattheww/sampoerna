@@ -1,0 +1,32 @@
+
+{
+	"employee":
+	{
+		"getRoundDetails": "api/Employees/getRoundDetails",
+		"getMain" : "api/Employees/main?customerCode=",
+		"getLeaderboard" : "api/Employees/leaderboards",
+		"forgotPassword" : "api/Employees/forgot",
+		"login" : "api/Employees/login",
+		"firstLoginResetPassword" : "api/employees/reset",
+		"resetPassword": "api/Employees/reset"
+	}
+	,
+	"admin": 
+	{
+		"uploadFile" : "api/Admins/file/upload",
+		"downloadFile" : "api/Admins/file/download",
+		"roundUpdate" : "api/Admins/Round/update",
+		"getRound" : "api/Admins/Round",
+		"getUserList" : "api/Admins/userList",
+		"resetAdmin" : "api/Employees/resetAdmin?CustomerCode=",
+		"downloadAllEmployee" : "api/Admins/UserProfileAll ",
+		"downloadAllDataLeaderboard" : "api/Admins/LeaderBoardAll"
+	}
+	,
+	"general":
+	{
+		"updatePhoneNumber" : "api/Employees/updatePhoneNumber"
+	}
+
+
+}

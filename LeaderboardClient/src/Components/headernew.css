@@ -1,0 +1,27 @@
+.header{
+    background-color: #212222;;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content:center ;
+}
+.profile-image{
+    height: 34px;
+    width: 34px;
+    margin-top: -5px;
+}
+
+.user-roleNameNew{
+    font-size: 20px;
+    margin-top:10px ;
+    margin-left:-130px ;
+    padding-top:60px ;
+    padding-left:20px ;
+}
+.username{
+
+}
+
+.detail-information{
+
+}

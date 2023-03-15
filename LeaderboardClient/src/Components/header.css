@@ -1,0 +1,1031 @@
+/* header rolename */
+h3.role-adm {
+  font-size: 20px;
+  margin-left: -1px;
+}
+.progressbbb {
+  position: relative;
+  width: 700px;
+  height: 200px;
+}
+
+/* Wholeseller Header */
+@media (min-width: 320px) and (max-width: 374px) {
+  .img-fluid {
+    width: 200px !important;
+    margin-bottom: 50px !important;
+    margin-top: 56px !important;
+  }
+
+  .distance {
+    margin-top: 70px !important;
+  }
+  .distance-WS {
+    margin-top: 102px !important;
+  }
+  .distance-SM {
+    margin-top: 70px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+  
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 0% !important;
+    left: -4% !important;
+  }
+  .m-2 {
+    position: absolute;
+    left: 30% !important ;
+    top: 26%;
+    margin-top: 45px;
+    margin-left: -20px;
+  }
+  .SmLogo {
+    position: absolute;
+    left: 30% !important ;
+    top: 26%;
+    margin-top: 45px;
+    margin-left: -20px;
+  }
+
+  .WsLogo {
+    position: absolute !important;
+    left: 30% !important ;
+    top: 5% !important;
+    margin-top: 45px!important;
+    margin-left: 1px!important;
+  }
+
+
+  
+
+  h3.role-adm {
+    font-size: 18px;
+    margin-top: 26px;
+    margin-left: 681px;
+  }
+  h3.role-admSM {
+    font-size: 18px;
+    margin-top: 26px;
+    margin-left: 681px;
+  }
+
+  .user-roleName {
+    font-size: 20px;
+    margin-top: 10px !important;
+    margin-left: -650px !important;
+    padding-top: 60px !important;
+  }
+  .user-roleNameSM{
+    font-size: 13px;
+    margin-top: 21px !important;
+    margin-left: 81px !important;
+    padding-top: 60px !important;
+  }
+
+  .user-roleNameWS {
+    font-size: 13px;
+    margin-top: 21px !important;
+    margin-left: 34px !important;
+    padding-top: 60px !important;
+  }
+  .username {
+    margin-top: 85px;
+    margin-left: 40px;
+  }
+  .username-SM {
+    margin-top: 85px;
+    margin-left: 40px;
+  }
+  .username-WS {
+    margin-top: 85px;
+    margin-left: 40px;
+  }
+  .detail-information {
+    width: 130px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+  }
+  .modal-content {
+    width: 300px;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .img-fluid {
+    width: 200px !important;
+    margin-bottom: 50px !important;
+    margin-top: 56px !important;
+  }
+
+  .distance {
+    margin-top: 83px !important;
+  }
+  .distance-SM {
+    margin-top: 83px !important;
+  }
+  .distance-WS {
+    margin-top: 110px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+
+  .WsLogo {
+    position: absolute !important;
+    left: 30% !important ;
+    top: 5% !important;
+    margin-top: 45px!important;
+    margin-left: -9px!important;
+  }
+
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+  }
+  .m-2 {
+    position: absolute;
+    top: 10%;
+    left: 33% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    position: absolute;
+    top: 10%;
+    left: 33% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+
+  h3.role-adm {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 699px;
+  }
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 699px;
+  }
+  .user-roleNameSM {
+    font-size: 15px;
+    margin-top: 3px !important;
+    margin-left: 102px !important;
+  }
+  .user-roleNameWS {
+    font-size: 13px;
+    margin-top: 21px !important;
+    margin-left: 21px !important;
+  }
+
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -670px !important;
+    margin-top: -10px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 39px;
+    margin-bottom: 0px;
+  }
+  .username-SM {
+    margin-top: 73px;
+    margin-left: 40px;
+    margin-bottom: 0px;
+  }
+  .username-WS {
+    margin-top: 73px;
+    margin-left: 40px;
+    margin-bottom: 0px;
+  }
+  .detail-information {
+    height: 34px;
+    margin-top: 63px;
+    margin-bottom: 0px;
+    margin-left: -660px !important;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  /* header start here */
+
+  .img-fluid {
+    width: 200px !important;
+    margin-bottom: 50px !important;
+    margin-top: 56px !important;
+  }
+
+  .distance {
+    margin-top: 65px !important;
+  }
+  .distance-SM {
+    margin-top: 65px !important;
+  }
+
+  .distance-WS {
+    margin-top: 90px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+  }
+  .m-2 {
+    position: absolute;
+    top: 10%;
+    left: 35% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    position: absolute;
+    top: 10%;
+    left: 35% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  
+
+  h3.role-adm {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 673px;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 673px;
+  }
+  .user-roleNameSM {
+    font-size: 15px;
+    margin-top: -8px !important;
+    margin-left: 109px !important;
+    padding-top: 60px !important;
+  }
+  .user-roleNameWS {
+    font-size: 15px;
+    margin-top: -8px !important;
+    margin-left: 64px !important;
+    padding-top: 60px !important;
+  }
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -640px !important;
+    margin-top: -10px !important;
+    padding-top: 55px !important;
+  }
+
+  .username {
+    margin-top: 51px;
+    margin-bottom: 0px;
+    margin-left: 7px !important;
+  }
+  .username-SM {
+    margin-top: 85px;
+    margin-bottom: 0px;
+    margin-left: 7px!important;
+  }
+
+  .username-WS {
+    margin-top: 85px;
+    margin-bottom: 0px;
+    margin-left: 7px!important;
+  }
+  .detail-information {
+    margin-top: 71px;
+    margin-bottom: 0px;
+    margin-left: -5cm !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1021px) {
+  .img-fluid {
+    width: 285px !important;
+    margin-bottom: 52px !important;
+    margin-top: 56px !important;
+  }
+
+  .distance-WS {
+    margin-top: 90px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+  .m-2 {
+    height: 72px!important;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 72px!important;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  
+  
+
+  h3.role-adm {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-left: 27px;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 14px;
+    margin-left: 30px;
+  }
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+
+  .user-roleName {
+    font-size: 28px;
+    margin-left: 4px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 4px;
+    margin-left: -5px !important;
+  }
+  .username-SM{
+    margin-top: 83px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+  .username-WS{
+    margin-top: 83px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+ 
+  .user-roleNameSM {
+    font-size: 15px;
+    margin-top: 11px !important;
+    margin-left: 17px !important;
+  }
+  
+  .user-roleNameWS {
+    font-size: 15px;
+    margin-top: 11px !important;
+    margin-left: -724px !important;
+  }
+
+  .detail-information {
+    margin-top: 66px;
+    margin-bottom: 10px;
+    margin-left: -5cm!important;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1365px) {
+  /* header start here */
+
+  .img-fluid {
+    width: 380px !important;
+  }
+  /* yang ditambahin */
+  .distance {
+    margin-top: 126px !important;
+  }
+
+  .distance-WS {
+    margin-top: 95px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+ 
+  .username-SM{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+
+  .username-WS{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+
+  .user-roleNameSM {
+    font-size: 15px;
+    margin-top: 16px !important;
+    margin-left: -4px !important;
+    padding-top: 60px !important;
+  }
+ 
+  .user-roleNameWS {
+    font-size: 15px;
+    margin-top: 16px !important;
+    margin-left: -987px !important;
+    padding-top: 60px !important;
+  }
+
+
+  .m-2 {
+    height: 72px !important;
+    position: absolute;
+    top: 10%;
+    left: 42% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 72px !important;
+    position: absolute;
+    top: 10%;
+    left: 42% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  /* yang ditambahin end here */
+
+  h3.role-adm {
+    font-size: 19px!important;
+    margin-top: 10px!important;
+    margin-left: 111px!important;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 14px;
+    margin-left: 108px;
+  }
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -87px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 7px;
+    margin-left: -12px !important;
+  }
+  
+
+  .detail-information {
+    margin-right: -11px;
+    margin-top: 61px;
+    margin-bottom: 10px;
+    margin-left: -10cm !important;
+  }
+}
+
+@media (min-width: 1366px) and (max-width: 1439px) {
+  /* header start here */
+
+  .img-fluid {
+    width: 380px !important;
+  }
+  /* yang ditambahin */
+  .distance {
+    margin-top: 126px !important;
+  }
+
+  .distance-WS {
+    margin-top: 95px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+  .username-SM{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+
+
+  .username-WS{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+
+  .user-roleNameSM {
+    font-size: 20px;
+    margin-top: 16px !important;
+    margin-left: -51px !important;
+    padding-top: 60px !important;
+  }
+
+
+  .user-roleNameWS {
+    font-size: 20px;
+    margin-top: 16px !important;
+    margin-left: -1389px !important;
+    padding-top: 60px !important;
+  }
+
+  .m-2 {
+    height: 72px !important;
+    position: absolute;
+    top: 10%;
+    left: 42% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 72px !important;
+    position: absolute;
+    top: 10%;
+    left: 42% !important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  /* yang ditambahin end here */
+
+  h3.role-adm {
+    font-size: 19px!important;
+    margin-top: 10px!important;
+    margin-left: 58px!important;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 14px;
+    margin-left: 55px;
+  }
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -87px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 7px;
+    margin-left: -12px !important;
+  }
+ 
+
+  .detail-information {
+    margin-right: -11px;
+    margin-top: 61px;
+    margin-bottom: 10px;
+    margin-left: -10cm !important;
+  }
+}
+
+@media (min-width: 1440px) and (max-width: 1919px) {
+  /* header start here */
+
+  .img-fluid {
+    width: 410px !important;
+  }
+  .m-2 {
+    height: 100px!important;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 100px!important;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+
+  .distance {
+    margin-top: 122px !important;
+  }
+  .distance-WS {
+    margin-top: 130px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+  .username-SM{
+    margin-top: 97px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+  
+
+  .username-WS{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -12px!important;
+  }
+
+  .user-roleNameSM {
+    font-size: 20px;
+    margin-top: 50px !important;
+    margin-left: -45px !important;
+    padding-top: 60px !important;
+  }
+  
+
+  .user-roleNameWS {
+    font-size: 20px;
+    margin-top: 50px !important;
+    margin-left: -1475px !important;
+    padding-top: 60px !important;
+  }
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+  h3.role-adm {
+    font-size: 20px!important;
+    margin-top: 36px!important;
+    margin-left: 116px!important;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 39px;
+    margin-left: 119px;
+  }
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -150px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 45px;
+  }
+
+  .detail-information {
+    margin-right: -11px;
+    margin-top: 79px;
+    margin-bottom: 10px;
+    margin-left: -10cm !important;
+  }
+}
+
+@media (min-width: 1920px) and (max-width: 2559px) {
+  /* header start here */
+
+  .img-fluid {
+    width: 410px !important;
+  }
+  .m-2 {
+    height: 100px !important;
+    position: absolute;
+    top: 10%;
+    left: 45%!important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 100px !important;
+    position: absolute;
+    top: 10%;
+    left: 45%!important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+
+  .distance {
+    margin-top: 122px !important;
+  }
+  .distance-WS {
+    margin-top: 130px !important;
+  }
+  .outLabelWS{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelAM{
+    font-size: 10px;
+    color: white;
+  }
+  .outLabelSML{
+    font-size: 10px;
+    color: white;
+  }
+  .username-SM{
+    margin-top: 105px;
+    margin-bottom: 0px;
+    margin-left: -11px!important;
+  }
+
+  .username-WS{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -11px!important;
+  }
+
+  .user-roleNameSM {
+    font-size: 30px;
+    margin-top: 40px !important;
+    margin-left: 44px !important;
+    padding-top: 60px !important;
+  }
+
+  .user-roleNameWS {
+    font-size: 30px;
+    margin-top: 40px !important;
+    margin-left: -1843px !important;
+    padding-top: 60px !important;
+  }
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+  h3.role-adm {
+    font-size: 20px!important;
+    margin-top: 36px!important;
+    margin-left: 205px!important;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 39px;
+    margin-left: 208px;
+  }
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -150px !important;
+    padding-top: 60px !important;
+  }
+
+  .username {
+    margin-top: 45px;
+    margin-left: -8px !important;
+  }
+
+  .detail-information {
+    margin-right: -11px;
+    margin-top: 85px;
+    margin-bottom: 10px;
+    margin-left: -10cm !important;
+  }
+}
+
+@media (min-width: 2560px) {
+  /* header start here */
+  .img-fluid {
+    width: 500px !important;
+  }
+  .m-2 {
+    height: 100px !important;
+    position: absolute;
+    top: 10%;
+    left: 45%!important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .SmLogo {
+    height: 100px !important;
+    position: absolute;
+    top: 10%;
+    left: 45%!important;
+    margin-top: 45px;
+    margin-left: 20px;
+  }
+  .distance-WS {
+    margin-top: 130px !important;
+  }
+
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 11%;
+  }
+  h3.role-adm {
+    font-size: 20px;
+    margin-top: 43px!important;
+    margin-left: 369px!important;
+  }
+
+  h3.role-admSM {
+    font-size: 20px;
+    margin-top: 36px;
+    margin-left: 366px;
+  }
+  .username-SM{
+    margin-top: 90px;
+    margin-bottom: 0px;
+    margin-left: -11px!important;
+  }
+
+  .username-WS{
+    margin-top: 81px;
+    margin-bottom: 0px;
+    margin-left: -11px!important;
+  }
+
+  .user-roleNameSM {
+    font-size: 20px;
+    margin-top: 42px !important;
+    margin-left: -13px !important;
+    padding-top: 60px !important;
+  }
+  
+  .user-roleNameWS {
+    font-size: 20px;
+    margin-top: 37px !important;
+    margin-left: -2564px !important;
+    padding-top: 60px !important;
+  }
+
+  .user-roleName {
+    font-size: 20px;
+    margin-left: -370px !important;
+    padding-top: 60px !important;
+  }
+  .username {
+    margin-top: 45px;
+  }
+
+  .detail-information {
+    margin-right: -11px;
+    margin-top: 71px;
+    margin-bottom: 10px;
+    margin-left: -10cm !important;
+  }
+}
+/* Wholeseller Header end here */
+
+/* Salesman Leaderboard Header (same with the wholeseller)*/
+@media (min-width: 320px) and (max-width: 374px) {
+  .logout-button {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+  }
+  .m-2 {
+    position: absolute;
+    left: 30% !important ;
+    top: 26%;
+    margin-top: 45px;
+    margin-left: -20px;
+  }
+  .SmLogo {
+    position: absolute;
+    left: 30% !important ;
+    top: 26%;
+    margin-top: 45px;
+    margin-left: -20px;
+  }
+  .user-roleName {
+    font-size: 20px;
+    margin-top: 10px !important;
+    margin-left: -650px !important;
+    padding-top: 60px !important;
+  }
+  .username {
+    margin-top: 76px;
+    margin-left: -4px !important;
+  }
+  .detail-information {
+    width: 127px;
+    height: 35px;
+    margin-top: 83px;
+    margin-bottom: 0px;
+  }
+  .modal-content {
+    width: 300px;
+  }
+}
+/* Salesman Leaderboard Header end here*/
+
+/* Salesman Header start here */
+.usernameSM {
+}
+
+/* Salesman Header end here */

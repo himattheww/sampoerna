@@ -1,0 +1,15 @@
+.vs/
+LeaderboardAPI/bin
+LeaderboardAPI/obj
+LeaderboardClient/.DS_*
+LeaderboardClient/*.log
+LeaderboardClient/logs
+LeaderboardClient/*.backup.*
+LeaderboardClient/*.back.*
+
+LeaderboardClient/node_modules
+LeaderboardClient/bower_components
+
+LeaderboardClient/psd
+LeaderboardClient/thumb
+LeaderboardClient/sketch

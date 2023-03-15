@@ -1,0 +1,47 @@
+.noHover{
+    pointer-events: none;
+}
+
+.modal-size{
+    width: 37%;
+}
+
+.editRoundTitle { 
+    text-align: center;
+
+}
+.editRoundparagraph { 
+    text-align: center;
+    font-style: italic;
+}
+
+.roundsetting-label{
+    color: #808080;
+    font-weight: lighter;
+    font-size: 11px;
+}
+
+.iconOK {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.doneRound {
+    position: absolute;
+    width: 120px;
+    top: 80%;
+    left: 38%;
+}
+
